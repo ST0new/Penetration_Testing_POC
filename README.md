@@ -3019,6 +3019,7 @@
 - [上ORM也没用！手注击穿ORM到后台](./books/上ORM也没用！手注击穿ORM到后台.html)
 - [Tomcat解析XML引入的新颖webshell构造方式](./books/Tomcat解析XML引入的新颖webshell构造方式.html)
 - [【补天白帽黑客城市沙龙-西安站】c3p0新链探索—深入挖掘数据库连接池的安全隐患](./books/【补天白帽黑客城市沙龙-西安站】c3p0新链探索—深入挖掘数据库连接池的安全隐患.html)
+- [终极代码审计全维度清单](https://gist.github.com/Mr-xn/2af3b138cb07ca7dd3754afc3b615953)
 
  
 
