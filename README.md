@@ -188,7 +188,7 @@
 - [ThinkPHP 6.x反序列化POP链（二）](./books/ThinkPHP%206.x反序列化POP链（二）.pdf)|[原文链接](https://mp.weixin.qq.com/s/q8Xa3triuXEB3NoeOgka1g)
 - [ThinkPHP 6.x反序列化POP链（三）](./books/ThinkPHP%206.x反序列化POP链（三）.pdf)|[原文链接](https://mp.weixin.qq.com/s/PFNt3yF0boE5lR2KofghBg)
 - [WordPress InfiniteWP - Client Authentication Bypass (Metasploit)](https://www.exploit-db.com/exploits/48047)
-- [【Linux提权/RCE】OpenSMTPD 6.4.0 < 6.6.1 - Local Privilege Escalation + Remote Code Execution](https://www.exploit-db.com/exploits/48051)
+- [【Linux/RCE】OpenSMTPD 6.4.0 < 6.6.1 - Local Privilege Escalation + Remote Code Execution](https://www.exploit-db.com/exploits/48051)
 - [CVE-2020-7471-django1.11-1.11.282.2-2.2.103.0-3.0.3 StringAgg(delimiter)使用了不安全的数据会造成SQL注入漏洞环境和POC](https://github.com/Saferman/CVE-2020-7471)
 - [CVE-2019-17564 : Apache Dubbo反序列化漏洞](https://www.anquanke.com/post/id/198747)
 - [CVE-2019-2725(CNVD-C-2019-48814、WebLogic wls9-async)](https://github.com/lufeirider/CVE-2019-2725)
@@ -874,8 +874,9 @@
 - [LiteLLM v1.84.0 安全漏洞完整分析报告](https://mrxn.net/jswz/LiteLLM_v1840_security_analysis.html)
 - [用友U8Cloud XChangeServlet SQL注入漏洞+XXE漏洞](https://mrxn.net/jswz/yonyou-u8c-XChangeServlet-xxe-sqli.html)
 - [CVE-2026-63030 + CVE-2026-60137: pre-authentication SQL injection in WordPress core via REST batch-route confusion.](https://github.com/47Cid/wp2shell-lab) | [wp2shell-poc](https://github.com/Icex0/wp2shell-poc) | [wp2shell-单文件利用+批量检测](https://github.com/Mr-xn/wp2shell) | [wp2shell+lab](https://github.com/0xsha/wp2shell) | [CVE-2026-63030:wp2shell vulhub](https://github.com/vulhub/vulhub/tree/master/wordpress/CVE-2026-63030)
-- [Fastjson 1.2.68-1.2.83 版本默认配置在特定场景下的反序列化RCE实现](https://github.com/wouijvziqy/Fastjson-JsonType-RCE-PoC)
+- [Fastjson 1.2.68-1.2.83 版本默认配置在特定场景下的反序列化RCE实现](https://github.com/wouijvziqy/Fastjson-JsonType-RCE-PoC) | [fastjson-jsontype-rce-lab](https://github.com/dinosn/fastjson-jsontype-rce-lab) | [2026FastjsonPoC](https://github.com/ThanatosXingYu/2026FastjsonPoC)
 - [Fastjson 1.2.83 默认配置下的远程代码执行RCE](https://mrxn.net/jswz/fastjson-1-2-83-default-config-rce.html)
+- [redis-poc: RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0](https://github.com/berabuddies/redis-poc)
 
 
 ## <span id="head5"> 提权辅助相关</span>
